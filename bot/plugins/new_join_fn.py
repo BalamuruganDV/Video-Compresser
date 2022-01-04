@@ -74,7 +74,7 @@ async def help_message_f(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('ᴄʜᴀɴɴᴇʟ', url='https://t.me/Rex_Botz')
+                    InlineKeyboardButton('ᴄʜᴀɴɴᴇʟ', url='https://t.me/Rex_Botz'),
                     InlineKeyboardButton('ɢʀᴏᴜᴘ', url='https://t.me/Rex_Bots_support')
                 ],
                 [
