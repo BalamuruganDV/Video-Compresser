@@ -95,10 +95,11 @@ async def incoming_start_message_f(bot, update):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('ᴄʜᴀɴɴᴇʟ', url='https://t.me/Rex_Botz')
+                    InlineKeyboardButton('ᴄʜᴀɴɴᴇʟ', url='https://t.me/Rex_Botz'),
+                    InlineKeyboardButton('ɢʀᴏᴜᴘ',url='https://t.me/Rex_bots_support')
                 ],
                 [
-                    InlineKeyboardButton('ɢʀᴏᴜᴘ', url='https://t.me/Rex_Bots_Support')
+                    InlineKeyboardButton('ʟᴏɢs ᴄʜᴀɴɴᴇʟ', url='https://t.me/RexCompressLogs')
                 ]
             ]
         ),
