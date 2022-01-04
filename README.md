@@ -12,7 +12,7 @@
 [![Bot Support](https://img.shields.io/badge/Video%20Compress%20Bot-support%20group-blue)](https://t.me/LinuxRepository_OT)
 
 
-A Telegram <m>Video Compressor</m> Bot By [@AbirHasan2005](https://t.me/linux_repo). **This bot works for all!** No need to define each user IDs to use bot. Also works in Group.
+A Telegram <mono>Video Compressor</mono> Bot By [@AbirHasan2005](https://t.me/linux_repo). **This bot works for all!** No need to define each user IDs to use bot. Also works in Group.
 
 ### Special Features:
 - Bot's Live Status on Channel
