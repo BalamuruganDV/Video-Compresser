@@ -138,7 +138,7 @@ async def convert_video(video_file, output_directory, total_time, bot, message, 
             reply_markup=InlineKeyboardMarkup(
                 [
                     [ 
-                        InlineKeyboardButton('❌ Cancel ❌', callback_data='fuckingdo') # Nice Call 🤭
+                        InlineKeyboardButton('❌ 𝘾𝘼𝙉𝘾𝙀𝙇 ❌', callback_data='fuckingdo') # Nice Call 🤭
                     ]
                 ]
             )
