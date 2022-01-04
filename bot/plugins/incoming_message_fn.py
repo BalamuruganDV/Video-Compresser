@@ -91,7 +91,7 @@ async def incoming_start_message_f(bot, update):
             return
     await bot.send_message(
         chat_id=update.chat.id,
-        text=Localisation.START_TEXT.format(name=message.from_user.mention),
+        text=Localisation.START_TEXT.format(name=message.from_user.first_name),
         reply_markup=InlineKeyboardMarkup(
             [
                 [
