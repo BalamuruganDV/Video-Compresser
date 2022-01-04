@@ -70,7 +70,7 @@ async def help_message_f(client, message):
             return
     ## Force Sub ##
     await message.reply_text(
-        Localisation.HELP_MESSAGE,
+        Localisation.HELP_MESSAGE.format(name=m.from_user.first_name),
         reply_markup=InlineKeyboardMarkup(
             [
                 [
